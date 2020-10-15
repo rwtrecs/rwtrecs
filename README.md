@@ -1,11 +1,5 @@
 # Adolfo A. Botasso da Cruz
 
-<a href="https://www.linkedin.com/in/adolfo-cruz-531570134/">
-  <img align="left" alt="Adolfo A. Botasso da Cruz - Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
----
-
 <img align="left" alt="PHP" height="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 
 <img align="left" alt="SQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
